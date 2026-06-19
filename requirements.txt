@@ -1,0 +1,7 @@
+flask
+Flask-Login
+Flask-SQLAlchemy
+Flask-Limiter
+werkzeug
+openai
+python-dotenv
